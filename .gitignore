@@ -6,6 +6,7 @@ raylua_r.exe
 raylua_s.exe
 raylua_s
 raylua_e
+raylua_r
 src/autogen/bind.c
 src/autogen/boot.c
 src/autogen/builder.c
